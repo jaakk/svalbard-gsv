@@ -1,0 +1,538 @@
+{
+ "name": "Seed Genus",
+ "children": [
+  {
+   "name": "Aeschynomene",
+   "children": [
+    {
+     "name": "Aeschynomene americana",
+     "children": [
+      {"name": "Aeschynomene americana", "size": 441000}
+     ]
+    }
+   ]
+  },
+  {
+    "name": "Arachis",
+    "children" : [
+    {
+      "name": "Arachis hypogaea",
+      "children": [
+      {"name": "Arachis hypogaea L.", "size": 2707090}]
+    }
+    ]
+  },
+  {
+    "name": "Avena",
+    "children" : [
+    {
+      "name": "Avena sativa",
+      "children": [
+      {"name": "Avena sativa L.", "size": 1836627},
+      {"name": "Avena sativa", "size": 524050}]
+    }
+    ]
+  },
+  {
+    "name": "Cajanus",
+    "children" : [
+    {
+      "name": "Cajanus cajan",
+      "children": [
+      {"name": "Cajanus cajan (L.) Millsp.", "size": 3711993}]
+    }
+    ]
+  },
+  {
+    "name": "Centrosema",
+    "children" : [
+    {
+      "name": "Centrosema molle",
+      "children": [
+      {"name": "Centrosema molle", "size": 1056000}]
+    }
+    ]
+  },
+  {
+    "name": "Cicer",
+    "children" : [
+    {
+      "name": "Cicer arietinum",
+      "children": [
+      {"name": "Cicer arietinum (L.)", "size": 7122090},
+      {"name": "Cicer arietinum", "size": 1928400},
+      {"name": "Cicer arietinum L.", "size": 1475101}]
+    }
+    ]
+  },
+  {
+    "name": "Dactylis",
+    "children" : [
+    {
+      "name": "Dactylis glomerata",
+      "children": [
+      {"name": "Dactylis glomerata L.", "size": 831367}]
+    }
+    ]
+  },
+  {
+    "name": "Desmodium",
+    "children" : [
+    {
+      "name": "Desmodium barbatum",
+      "children": [
+      {"name": "Desmodium barbatum", "size": 340500}]
+    },
+    {
+      "name": "Desmodium heterocarpon",
+      "children": [
+      {"name": "Desmodium heterocarpon", "size": 348500}]
+    },
+    {
+      "name": "Desmodium incanum",
+      "children": [
+      {"name": "Desmodium incanum", "size": 479500}]
+    }
+    ]
+  },
+  {
+    "name": "Echinochloa",
+    "children" : [
+    {
+      "name": "Echinochloa colona",
+      "children": [
+      {"name": "Echinochloa colona (L.) Link", "size": 3120180}]
+    },
+    {
+      "name": "Echinochloa crusgalli",
+      "children": [
+      {"name": "Echinochloa crusgalli (L.) P.B.", "size": 690897}]
+    }
+    ]
+  },
+  {
+    "name": "Eleusine",
+    "children" : [
+    {
+      "name": "Eleusine coracana",
+      "children": [
+      {"name": "Eleusine coracana (L.) Gaertn.", "size": 58339437}]
+    }
+    ]
+  },
+  {
+    "name": "Festuca",
+    "children" : [
+    {
+      "name": "Festuca pratensis",
+      "children": [
+      {"name": "Festuca pratensis Huds.", "size": 372010}]
+    },
+    {
+      "name": "Festuca rubra",
+      "children": [
+      {"name": "Festuca rubra L.", "size": 339430}]
+    }
+    ]
+  },
+  {
+    "name": "Galactia",
+    "children" : [
+    {
+      "name": "Galactia striata",
+      "children": [
+      {"name": "Galactia striata", "size": 345000}]
+    }
+    ]
+  },
+  {
+    "name": "Glycine",
+    "children" : [
+    {
+      "name": "Glycine max",
+      "children": [
+      {"name": "Glycine max", "size": 1923050}]
+    }
+    ]
+  },
+  {
+    "name": "Helianthus",
+    "children" : [
+    {
+      "name": "Helianthus annuus",
+      "children": [
+      {"name": "Helianthus annuus", "size": 378564}]
+    }
+    ]
+  },
+  {
+    "name": "Hordeum",
+    "children" : [
+    {
+      "name": "Hordeum vulgare",
+      "children": [
+      {"name": "Hordeum vulgare subsp. vulgare convar. vulgare", "size": 10391518},
+      {"name": "Hordeum vulgare L.", "size": 6118385},
+      {"name": "Hordeum vulgare", "size": 4046500},
+      {"name": "Hordeum vulgare subsp. vulgare", "size": 3159191},
+      {"name": "Hordeum vulgare subsp. vulgare convar. distichon (L.) Alef.", "size": 2528798},
+      {"name": "Hordeum vulgare ssp. vulgare L.", "size": 1400146},
+      {"name": "Hordeum vulgare subsp. vulgare convar. distichon", "size": 10391518},
+      {"name": "Hordeum L. vulgare L.", "size": 586700},
+      {"name": "Hordeum vulgare subsp. spontaneum (C.Koch) Thell.", "size": 504003}
+      ]
+    }
+    ]
+  },
+  {
+    "name": "Lathyrus",
+    "children" : [
+    {
+      "name": "Lathyrus sativus",
+      "children": [
+      {"name": "Lathyrus sativus L.", "size": 398695}]
+    }
+    ]
+  },
+  {
+    "name": "Lens",
+    "children" : [
+    {
+      "name": "Lens culinaris",
+      "children": [
+      {"name": "Lens culinaris subsp. culinaris Medik.", "size": 3699000},
+      {"name": "Lens culinaris subsp. culinaris", "size": 2421600},
+      {"name": "Lens culinaris Medik.", "size": 540070}]
+    }
+    ]
+  },
+  {
+    "name": "Linum",
+    "children" : [
+    {
+      "name": "Linum usitatissimum",
+      "children": [
+      {"name": "Linum L. usitatissimum L.", "size": 3681000},
+      {"name": "Linum usitatissimum", "size": 400700},
+      {"name": "Linum usitatissimum L.", "size": 369771}]
+    }
+    ]
+  },
+  {
+    "name": "Lolium",
+    "children" : [
+    {
+      "name": "Lolium perenne",
+      "children": [
+      {"name": "Lolium perenne L.", "size": 1538485}]
+    }
+    ]
+  },
+  {
+    "name": "Lycopersicon",
+    "children" : [
+    {
+      "name": "Lycopersicon esculentum",
+      "children": [
+      {"name": "Lycopersicon esculentum Mill.", "size": 369081}]
+    }
+    ]
+  },
+  {
+    "name": "Medicago",
+    "children" : [
+    {
+      "name": "Medicago ruthenica",
+      "children": [
+      {"name": "Medicago ruthenica", "size": 381250}]
+    },
+    {
+      "name": "Medicago sativa",
+      "children": [
+      {"name": "Medicago sativa subsp. sativa", "size": 4549214},
+      {"name": "Medicago sativa subsp. falcata", "size": 831298},
+      {"name": "Medicago sativa subsp. varia", "size": 601084},
+      {"name": "Medicago sativa L.", "size": 566465},
+      {"name": "Medicago sativa L. subsp. sativa", "size": 374500}]
+    }
+    ]
+  },
+  {
+    "name": "Oryza",
+    "children" : [
+    {
+      "name": "Oryza glaberrima",
+      "children": [
+      {"name": "Oryza glaberrima (Steud.)", "size": 1050834},
+      {"name": "Oryza glaberrima", "size": 841600}]
+    },
+    {
+      "name": "Oryza sativa",
+      "children": [
+      {"name": "Oryza sativa (L.)", "size": 54207050},
+      {"name": "Oryza sativa", "size": 7426735},
+      {"name": "Oryza sativa (Linnaeus)", "size": 2271560},
+      {"name": "Oryza sativa L.", "size": 2023203}]
+    }
+    ]
+  },
+  {
+    "name": "Panicum",
+    "children" : [
+    {
+      "name": "Panicum miliaceum",
+      "children": [
+      {"name": "Panicum miliaceum L.", "size": 2766495}]
+    },
+    {
+      "name": "Panicum sumatrense",
+      "children": [
+      {"name": "Panicum sumatrense Roth.ex.Roem.& Schult.", "size": 4046011}]
+    }
+    ]
+  },
+  {
+    "name": "Paspalum",
+    "children" : [
+    {
+      "name": "Paspalum scrobiculatum",
+      "children": [
+      {"name": "Paspalum scrobiculatum L.", "size": 2656640}]
+    }
+    ]
+  },
+  {
+    "name": "Pennisetum",
+    "children" : [
+    {
+      "name": "Pennisetum glaucum",
+      "children": [
+      {"name": "Pennisetum glaucum (L.) R. Br.", "size": 79095971}]
+    }
+    ]
+  },
+  {
+    "name": "Phaseolus",
+    "children" : [
+    {
+      "name": "Phaseolus vulgaris",
+      "children": [
+      {"name": "Phaseolus vulgaris", "size": 3223764}]
+    }
+    ]
+  },
+  {
+    "name": "Phleum",
+    "children" : [
+    {
+      "name": "Phleum pratense",
+      "children": [
+      {"name": "Phleum pratense L.", "size": 1389679},
+      {"name": "Phleum pratense ssp. pratense L.", "size": 336100}]
+    }
+    ]
+  },
+  {
+    "name": "Pisum",
+    "children" : [
+    {
+      "name": "Pisum sativum",
+      "children": [
+      {"name": "Pisum sativum L.", "size": 1336518},
+      {"name": "Pisum sativum", "size": 346560}]
+    }
+    ]
+  },
+  {
+    "name": "Poa",
+    "children" : [
+    {
+      "name": "Poa pratensis",
+      "children": [
+      {"name": "Poa pratensis L.", "size": 369186}]
+    }
+    ]
+  },
+  {
+    "name": "Sesamum",
+    "children" : [
+    {
+      "name": "Sesamum indicum",
+      "children": [
+      {"name": "Sesamum indicum", "size": 1161000}]
+    }
+    ]
+  },
+  {
+    "name": "Setaria",
+    "children" : [
+    {
+      "name": "Setaria italica",
+      "children": [
+      {"name": "Setaria italica (L.) Beauv.", "size": 13118724}]
+    }
+    ]
+  },
+  {
+    "name": "Solanum",
+    "children" : [
+    {
+      "name": "Solanum lycopersicum",
+      "children": [
+      {"name": "Solanum lycopersicum", "size": 2699050}]
+    },
+    {
+      "name": "Solanum melongena",
+      "children": [
+      {"name": "Solanum melongena", "size": 709471}]
+    }
+    ]
+  },
+  {
+    "name": "Sorghum",
+    "children" : [
+    {
+      "name": "Sorghum bicolor",
+      "children": [
+      {"name": "Sorghum bicolor (L.) Moench", "size": 40177150},
+      {"name": "Sorghum bicolor", "size": 1274666568200},
+      {"name": "Sorghum bicolor subsp. bicolor", "size": 568200}
+      ]
+    }
+    ]
+  },
+  {
+    "name": "Stylosanthes",
+    "children" : [
+    {
+      "name": "Stylosanthes guianensis",
+      "children": [
+      {"name": "Stylosanthes scabra", "size": 934500}]
+    },
+    {
+      "name": "Stylosanthes scabra",
+      "children": [
+      {"name": "Stylosanthes scabra", "size": 690000}]
+    }
+    ]
+  },
+  {
+    "name": "Triticosecale",
+    "children" : [
+    {
+      "name": "Triticosecale sp.",
+      "children": [
+      {"name": "Triticosecale spp.", "size": 1908500}]
+    }
+    ]
+  },
+  {
+    "name": "Triticum",
+    "children" : [
+    {
+      "name": "Triticum aestivum",
+      "children": [
+      {"name": "Triticum aestivum L.", "size": 22910036},
+      {"name": "Triticum aestivum subsp. aestivum", "size": 8275904},
+      {"name": "Triticum aestivum subsp. aestivum L.", "size": 2761182},
+      {"name": "Triticum L. aestivum L.", "size": 743150},
+      {"name": "Triticum aestivum ssp. aestivum L.", "size": 689500},
+      {"name": "Triticum aestivum", "size": 410550}]
+    },
+    {
+      "name": "Triticum aethiopicum",
+      "children": [
+      {"name": "Triticum aethiopicum Jakubz.", "size": 583292}]
+    },
+    {
+      "name": "Triticum durum",
+      "children": [
+      {"name": "Triticum durum", "size": 1742250}]
+    },
+    {
+      "name": "Triticum spelta",
+      "children": [
+      {"name": "Triticum spelta", "size": 447000}]
+    },
+    {
+      "name": "Triticum turgidum",
+      "children": [
+      {"name": "Triticum turgidum subsp. durum (Desf.) Husn.", "size": 8125217},
+      {"name": "Triticum turgidum subsp. durum", "size": 4178104},
+      {"name": "Triticum turgidum L. subsp. durum (Desf.) Husn", "size": 758000},
+      {"name": "Triticum turgidum L. subsp. durum (Desf.) Husn.", "size": 583250},
+      {"name": "Triticum turgidum subsp. durum (Desf.) Husn. ", "size": 340131}
+      ]
+    }
+    ]
+  },
+  {
+    "name": "Vicia",
+    "children" : [
+    {
+      "name": "Vicia faba",
+      "children": [
+      {"name": "Vicia faba L.", "size": 709256}]
+    },
+    {
+      "name": "Vicia sativa",
+      "children": [
+      {"name": "Vicia sativa subsp. sativa", "size": 375500}]
+    }
+    ]
+  },
+  {
+    "name": "Vigna",
+    "children" : [
+    {
+      "name": "Vigna angularis",
+      "children": [
+      {"name": "Vigna angularis var. angularis", "size": 363500}]
+    },
+    {
+      "name": "Vigna radiata",
+      "children": [
+      {"name": "Vigna radiata", "size": 2715000},
+      {"name": "Vigna radiata var. radiata", "size": 885700}]
+    },
+    {
+      "name": "Vigna unguiculata",
+      "children": [
+      {"name": "Vigna unguiculata", "size": 3874420}]
+    }
+    ]
+  },
+  {
+    "name": "xTriticosecale",
+    "children" : [
+    {
+      "name": "xTriticosecale spp.",
+      "children": [
+      {"name": "xTriticosecale spp.", "size": 3051000}]
+    }
+    ]
+  },
+  {
+    "name": "Zea",
+    "children" : [
+    {
+      "name": "Zea mays",
+      "children": [
+      {"name": "Zea mays L. subsp. mays Iltis and Doebley", "size": 12535296},
+      {"name": "Zea mays L.", "size": 2474204},
+      {"name": "Zea mays subsp. mays", "size": 706550}]
+    }
+    ]
+  },
+  {
+    "name": "Zornia",
+    "children" : [
+    {
+      "name": "Zornia sp.",
+      "children": [
+      {"name": "Zornia sp.", "size": 633000}]
+    }
+    ]
+  }
+]
+}
